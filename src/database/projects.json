@@ -1,0 +1,34 @@
+{
+    "projects" : [
+        {
+            "projectId" : 1,
+            "projectName" : "Projekt 1",
+            "projectDescription" : "Popis projektu 1",
+            "projectIfcRoute" : ""
+        },
+        {
+            "projectId" : 2,
+            "projectName" : "Projekt 2",
+            "projectDescription" : "Popis projektu 2",
+            "projectIfcRoute" : ""
+        },
+        {
+            "projectId" : 3,
+            "projectName" : "Projekt 3",
+            "projectDescription" : "Popis projektu 3",
+            "projectIfcRoute" : ""
+        },
+        {
+            "projectId" : 4,
+            "projectName" : "Projekt 4",
+            "projectDescription" : "Popis projektu 4",
+            "projectIfcRoute" : ""
+        },
+        {
+            "projectId" : 5,
+            "projectName" : "Projekt 5",
+            "projectDescription" : "Popis projektu 5",
+            "projectIfcRoute" : ""
+        }
+    ]
+}
